@@ -8,4 +8,4 @@ Ejercicio 1: saludo formateado
 Ejercicio 2: par o impar + mayoría de edad
 Ejercicio 3: descuento tienda
 Ejercicio 4: tarifa de taxi
-Ejercicio 5: clasificación de notas
+Ejercicio 5: clasificador de notas
